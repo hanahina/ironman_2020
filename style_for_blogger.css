@@ -28,7 +28,7 @@
     padding: 10px;
     vertical-align: middle;
 }
-.post-body br {
-    border-color: #eee;
+.post-body hr {
+    border: #eee 1px dashed;
     margin: 50px 0;
 }
