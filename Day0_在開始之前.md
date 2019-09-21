@@ -49,35 +49,38 @@
 * Day 29：前言
 * Day 30：前言 -->
 
-<!-- 1. is array
-2. length
-3. for / for...in / for...of
-4. while / do while
-5. break / continue
-6. forEach
-7. push
-8. pop
-9. shift
-10. unshift
-11. indexOf
-12. lastIndexOf
-13. some
-14. every
-15. slice
-16. splice
-17. sort
-18. reverse
-19. reduce
-20. reduceRight
-21. join
-22. filter
-23. map
-24. concat
-25. find / findIndex
-26. fill
-27. include
-28. keys() (object)
-29. values() (object) -->
+1. - [x] 前言
+1. - [x] array
+1. - [x] is array
+1. - [x] length
+1. - [x] for
+1. - [X] for...in / for...of
+1. - [ ] while / do while
+1. - [ ] break / continue
+1. - [ ] forEach
+1. - [ ] push
+1. - [ ] pop
+1. - [ ] shift
+1. - [ ] unshift
+1. - [ ] indexOf
+1. - [ ] lastIndexOf
+1. - [ ] some
+1. - [ ] every
+1. - [ ] slice
+1. - [ ] splice
+1. - [ ] sort
+1. - [ ] reverse
+1. - [ ] reduce
+1. - [ ] reduceRight
+1. - [ ] join
+1. - [ ] filter
+1. - [ ] map
+1. - [ ] concat
+1. - [ ] find / findIndex
+1. - [ ] fill
+1. - [ ] include
+1. - [ ] keys() (object)
+1. - [ ] values() (object)
 
 ## 參考資料
 
