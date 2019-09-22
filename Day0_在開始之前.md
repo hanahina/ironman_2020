@@ -55,7 +55,7 @@
 1. - [x] length
 1. - [x] for
 1. - [X] for...in / for...of
-1. - [ ] while / do while
+1. - [x] while / do while
 1. - [ ] break / continue
 1. - [ ] forEach
 1. - [ ] push
