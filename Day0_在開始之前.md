@@ -58,30 +58,31 @@
 1. - [x] while / do while
 1. - [x] break
 2. - [x] continue
-3. - [ ] forEach
-4. - [ ] push
-5. - [ ] pop
-6. - [ ] shift
-7. - [ ] unshift
-8. - [ ] indexOf
-9. - [ ] lastIndexOf
-10. - [ ] some
-11. - [ ] every
-12. - [ ] slice
-13. - [ ] splice
-14. - [ ] sort
-15. - [ ] reverse
-16. - [ ] reduce
-17. - [ ] reduceRight
-18. - [ ] join
-19. - [ ] filter
-20. - [ ] map
-21. - [ ] concat
-22. - [ ] find / findIndex
-23. - [ ] fill
-24. - [ ] include
-25. - [ ] keys() (object)
-26. - [ ] values() (object)
+3. - [x] forEach
+4. - [x] push
+5. - [x] pop
+6. - [x] shift
+7. - [x] unshift
+8. - [x] indexOf / lastIndexOf - 1
+9. - [x] indexOf / lastIndexOf - 2
+10. - [x] some
+11. - [x] every
+12. - [x] slice
+13. - [x] splice - 1
+14. - [x] splice - 2
+15. - [x] splice - 3
+16. - [X] sort
+17. - [X] reverse
+18. - [X] join
+19. - [X] reduce / reduceRight
+20. - [X] filter
+21. - [X] map
+22. - [X] concat
+23. - [ ] find / findIndex
+24. - [ ] fill
+25. - [ ] include
+26. - [ ] keys() (object)
+27. - [ ] values() (object)
 
 ## 參考資料
 
